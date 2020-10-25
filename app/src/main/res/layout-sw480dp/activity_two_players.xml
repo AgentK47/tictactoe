@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/dialog"
+    android:gravity="center"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+
+
+    <Button
+        android:id="@+id/phone"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:background="@drawable/button"
+        android:padding="10dp"
+        android:text="@string/phone"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="24sp" />
+<!---
+    <Button
+        android:id="@+id/bluetooth"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button"
+        android:text="Bluetooth"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="20sp" />
+-->
+    <Button
+        android:id="@+id/online"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button"
+        android:text="@string/online"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="24sp" />
+
+
+</LinearLayout>

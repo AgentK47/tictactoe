@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="todo">TODO</string>
+    <string name="continuer">Continuar</string>
+    <string name="you_play_1st_or_2nd">Comenzar en primer lugar o segundo lugar</string>
+    <string name="exit">Salir</string>
+    <string name="player">Jugador</string>
+    <string name="draw">Empate</string>
+    <string name="_won">Ganar</string>
+    <string name="_lost">Perdió</string>
+    <string name="opponent">Adversario</string>
+    <string name="_0">0</string>
+    <string name="textview">TextView</string>
+    <string name="levelless">la estrella debe ser ecendida para tener acceso</string>
+    <string name="case_non_vide">Casilla no vacia</string>
+    <string name="congratulation">Felicidades nivel</string>
+    <string name="next_level">Próximo nivel</string>
+    <string name="restart">Empezar de nuevo</string>
+    <string name="restart_">Empezar de nuevo +</string>
+    <string name="lost">Has perdido</string>
+    <string name="white">El Blanco</string>
+    <string name="black">El Negro</string>
+    <string name="won">ha ganado!</string>
+    <string name="draw_">Es un empate!</string>
+    <string name="lvl">Nivel</string>
+    <string name="thinking">Pensando...</string>
+    <string name="single_player">Un solo jugador</string>
+    <string name="two_player">Dos jugadores</string>
+    <string name="scores">Puntuaciones</string>
+    <string name="action_sons">Desactivar el sono</string>
+    <string name="action_language">Elegir la idioma</string>
+    <string name="select_language">Seleccione su idioma</string>
+    <string name="end_lvl4">"FIN DEL NIVEL 4 PARA TENER ACCESO"</string>
+    <string name="end_lvl9">"FIN DEL NIVEL 9 PARA TENER ACCESO"</string>
+    <string name="entrer_players">Ingrese nombres de jugadores por favor</string>
+    <string name="enter_player_names">Ingrese nombres de jugadores</string>
+    <string name="player_1">Primer jugador</string>
+    <string name="player_2">Segundo jugador</string>
+    <string name="ok">Vale!</string>
+    <string name="phone">Teléfono </string>
+    <string name="online">En línea</string>
+	 <string name="help">Ayuda</string>
+	
+	
+	 <!-- Online -->
+    <string name="you_continued">Continuaste</string>
+    <string name="opponent_continued">Su adversario continuó</string>
+    <string name="opponent_turn">El turno del oponente</string>
+    <string name="your_turn">Tu turno</string>
+    <string name="game_continued">Su adversario continuó</string>
+    <string name="opponent_exit">Su adversario salió</string>
+    <string name="game_exit">Su adversario salió del juego</string>
+	<string name="game_invite">te invitó!</string>
+	<string name="game_rejected">rechazó su invitación de jugar!</string>
+	<string name="game_accept">Aceptar</string>
+	<string name="game_reject">Rechazar</string>
+	<string name="correct_email">Poner un correo electrónico corecto</string>
+	<string name="correct_name">Poner un nombre válido</string>
+	<string name="correct_password">la contraseña debe tener al minimo 6 caracteres</string>
+	<string name="delete_account">Estas seguro que quieres eliminar ?</string>
+	<string name="account_deleted">Tu cuenta ha sido eliminada</string>
+	<string name="account_profile">¿Seguro que quieres que tu perfil sea</string>
+	<string name="_offline">invisible ?</string>
+	<string name="_online">visible ?</string>
+	<string name="delete">Eliminada</string>
+	
+    <!--  DeviceListActivity -->
+	 <string name="send">Send</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+	<string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+
+    <string name="title_not_connected">not connected</string>
+	<string name="_3_x_3">3 x 3</string>
+    <string name="_5_x_5">5 x 5</string>
+    <string name="_4_x_4">4 x 4</string>
+	<string name="help_intro">Las flechas en rojo indica los lugares donde debes poner tus piezas para ganar. Sin embargo debes alcanzar el nivel 5 y 11 para tener acceso a la rejilla 4 y 5 respectivamente. no tienes esa restricioón cuando juegas con un amigo en línea</string>
+    <string name="grid_3">Debes colocar tus 3 piezas según la direción de una de las flechas para ganar. La rejilla es disponible a partir del nivel 1 a 4 con dificultades</string>
+    <string name="grid_4">Debes colocar tus 3 piezas según la direción de una de las flechas para ganar. La rejilla es disponible a partir del nivel 5 a 10 con dificultades</string>
+    <string name="grid_5">Debes colocar tus 3 piezas según la direción de una de las flechas para ganar. La rejilla es disponible a partir del nivel 11 a 15 con dificultades</string>
+	<string name="multiplayer">Multiplayer</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="log_in">Acceder</string>
+    <string name="invite_to_play">Invitar a jugar</string>
+	<string name="congratulation_msg">Felicidades por tu excelente desempeño. Has llegado al final del juego. Nos gustaría agradecerte.</string>
+    <string name="no_online_players">No hay jugadores en línea !!!</string>
+    <string name="re_send_code">Reenviar codigo</string>
+
+    <string-array name="vignon">
+        <item> Te retore </item>
+         <item> No puede ganar </item>
+         <item> ¿Quién te dijo que me desafiaras </item>
+         <item> Eso es lo que digo que eres demasiado débil </item>
+         <item> Te detendré en el siguiente nivel </item>
+		 <item> ¡Créanme! ¡Voy a ganar! </item>
+		 <item> No te dejaré ganar esta vez </item>
+         <item> Un empate más y listo </item>
+         <item> Uso el sarcasmo en lugar de darle un puñetazo en la cara </item>
+         <item> No deberías haberme probado </item>
+         <item> Te detendré esta vez en el siguiente nivel </item>
+		 <item> Hola \, tengo ganas de ganar. </item>
+         <item> Por favor\, un empate más </item>
+         <item> ¡No molestar sin motivo! </item>
+         <item> Vas a volver a hablar \, ¿no? </item>
+         <item> Enhorabuena, pero Juan lo detendrá </item>
+    </string-array>
+	
+	<string-array name="john">
+        <item> ¡Vamos a terminar esto! </item>
+        <item> Yo soy mejor que Vignon </item>
+        <item> No bromeo </item>
+        <item> ¡No te metas conmigo! ¡Tengo un palo! </item>
+        <item> Voy a ganar en el siguiente nivel </item>
+		<item> ¡Confía en mí \, seré el ganador! </item>
+		<item> Bienvenido de nuevo \, mi amigo! </item>
+		<item> ¡Un empate más, vamos! </item>
+		<item> Es mucho más divertido ahora que lo tengo </item>
+		<item> Tengo cookies para ti si pierdes. </item>
+		<item> Hola \, ¡pensé que no volverías! </item>
+		<item> Nunca pongas un gato en tu cabeza. </item>
+		<item> ¡La decisión es tal vez y es final! </item>
+		<item> ¿Mi sarcasmo hirió tus sentimientos? Superarlo. </item>
+    </string-array>
+	
+	<string-array name="misterCarrot">
+        <item> Hola \, nací así. </item>
+         <item> ¡No te preocupes! ¡Puedo darte zanahorias! </item>
+         <item> Stop \, en lugar de dibujar gana un poco </item>
+         <item> ¡Come más zanahorias y vuelve! </item>
+         <item> Felicidades \, supongo que necesito capacitación </item>
+    </string-array>
+	
+	<string-array name="misterPatato">
+        <item> Hola\, yo soy el señor Patato! </item>
+         <item> Es mejor parecer estúpido y mantener la boca cerrada </item>
+         <item> Oh \, lo siento \, solo fueron dificultades técnicas. </item>
+		<item> ¡No soy al azar! Solo tengo muchos pensamientos </item>
+         <item> ¡Felicidades! ¡Espero que Mr Tomato lo detenga! </item>
+    </string-array>
+	
+	<string-array name="misterTomato">
+      <item> Hola \, ¡Mi amigo! </item>
+         <item> ¿Sabes \, soy el mejor de Señors? </item>
+         <item> Tengo una caja mágica y es mejor que la tuya. </item>
+         <item> ¡No te metas conmigo! ¡Tengo un palo! </item>
+         <item> Felicitaciones \, ¡le deseo lo mejor para el resto! </item>
+    </string-array>
+	
+	<string-array name="papi">
+        <item> ¡Soy el mejor papi de todos los tiempos! </item>
+         <item> Yo soy el mejor jugador de tictactoe </item>
+         <item> ¡Retrocede! ¡El vitory es mío! </item>
+         <item> No \, maldición! ¡No puedo mostrarte el camino a Sesame Street! </item>
+         <item> Voy a ganar en el siguiente nivel </item>
+
+         <item> ¡Me pedirá que deje de ganar! </item>
+         <item> Estoy viendo todos tus movimientos </item>
+         <item> No bromeo </item>
+         <item> Incluso mis problemas tienen problemas </item>
+        
+         <item> ¡Vamos a terminar esto! </item>
+         <item> Estoy pensando en tus movimientos </item>
+         <item> ¡Escucho voces y no les agradas! </item>
+         <item> Las personas enojadas necesitan abrazos u objetos filosos </item>
+         <item> Nadie puede ganar Tictactomania \, Goodluck </item>
+    </string-array>
+	
+	<string-array name="tictactomania">
+        <item> Hola \, no soy raro \, ¡estoy dotado! </item>
+         <item> Nunca desafíe la tictactomania </item>
+         <item> Mi amigo imaginario cree que tienes problemas </item>
+         <item> ¡No te metas conmigo! ¡Tengo un palo! </item>
+         <item> Ok\, has ganado \, por casualidad </item>
+   
+         <item> Hola \, ¡desde aquí no puedes ir más lejos! </item>
+		 <item> Nunca prenda fuego. </item>
+         <item> ¡Eso es tan típico de un fan de SUDOKU! </item>
+         <item> Las ovejas son solo palos de seda de caramelo dementes </item>
+         <item> ¡Soy tan hábil en el siguiente nivel! </item>
+   
+         <item> ¡Bienvenido al último nivel! </item>
+         <item> ¡Los plátanos pueden ser verdes! </item>
+         <item> ¡Puedo pensar! </item>
+         <item> ¡Suenas como tú! </item>
+         <item> Enhorabuena\, solo algunos de ustedes vencieron \, desafíen a sus amigos </item>
+    </string-array>
+	
+    <string-array name="levels_array">
+        <item> Vignon </item>
+         <item> Vignon estupefacto </item>
+         <item> Vignon aturdido </item>
+         <item> Juan </item>
+         <item> Juan sorprendió </item>
+         <item> Juan deprimido </item>
+         <item> Señor Zanahoria </item>
+         <item> Señor Patato </item>
+         <item> Señor Tomato </item>
+         <item> Papi </item>
+         <item> Papi ver </item>
+         <item> Papi pensando </item>
+         <item> Tictactomania </item>
+         <item> Tictactomania Fuego </item>
+         <item> Tictactomania Trueno </item>
+    </string-array>
+    <string-array name="wins_array">
+        <item>Gana Vignon 6 veces sin \'Empate\' para pasar !!!</item>
+        <item>Gana Vignon estupefacto 5 veces con un máximo de \'2 Empates\' para pasar!!!</item>
+        <item>Gana Vignon aturdido 5 veces con un máximo de \'1 Empates\' para pasar  !!!</item>
+        <item>No puedes ganar Juan\, pero hazlo empate 10 veces para pasar</item>
+        <item>Gana Juan sorprendió 5 veces sin \'Empate\' para pasar !!!</item>
+        <item>Gana Juan deprimido 5 veces con un máximo de \'2 Empates\' para pasar !!!</item>
+        <item>Gana Señor Zanahoria7 veces con un máximo de \'5 Empates\' para pasar !!!</item>
+        <item>Gana Señor Patato 8 veces con un máximo de \'5 Empates\' para pasar !!!</item>
+        <item>Gana Señor Tomato10 veces con un máximo de \'5 Empates\' para pasar !!!</item>
+        <item>No puedes ganar Papi\, pero hazlo empate 10 veces para pasar</item>
+        <item>Gana Papi ver 5 veces con un máximo de \'1 Empates\' para pasar !!!</item>
+        <item>Gana Papi pensando 5 veces sin \'Empate\' para pasar !!!</item>
+        <item>Gana Tictactomania  7 veces con un máximo de \'5 Empates\' para pasar !!!</item>
+        <item>Gana Tictactomania Fuego 8 veces con un máximo de \'5 Empates\' para pasar !!!</item>
+        <item>Gana Tictactomania Trueno 5 veces con un máximo de \'2 Empates\' para pasar </item>
+    </string-array>
+
+</resources>

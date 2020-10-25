@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.agentk.tictactoe">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icone"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true"/>
+        <meta-data
+            android:name="com.google.android.gms.ads.ca-app-pub-4160408430329268~7387692204"
+            android:value="[ca-app-pub-4160408430329268~7387692204]"/>
+
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation|locale"
+            android:parentActivityName=".OnlineActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustNothing" />
+        <activity
+            android:name=".PrincipalPage"
+            android:configChanges="orientation|locale"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LevelActivity"
+            android:configChanges="orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Grid5Activity"
+            android:configChanges="orientation|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustNothing" />
+        <activity
+            android:name=".Grid4Activity"
+            android:configChanges="orientation|locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustNothing" />
+        <activity
+            android:name=".GridActivity"
+            android:configChanges="orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ScoreActivity"
+            android:configChanges="orientation|locale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DeviceListActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/select_device"
+            android:theme="@android:style/Theme.Holo.Dialog" />
+        <activity android:name=".TwoPlayersActivity"
+            android:configChanges="orientation|locale"
+            android:screenOrientation="portrait" />
+
+
+        <service android:name=".push_notifications.MyFirebaseInstanceIdService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".push_notifications.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name=".push_notifications.MyReceiver" />
+
+        <activity android:name=".OnlineActivity"
+            android:configChanges="orientation|locale"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".users.UserListActivity"
+            android:configChanges="orientation|locale"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".HelpActivity"
+            android:configChanges="orientation|locale"
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>

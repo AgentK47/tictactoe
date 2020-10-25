@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "956933970060",
+    "firebase_url": "https://coral-atom-188404.firebaseio.com",
+    "project_id": "coral-atom-188404",
+    "storage_bucket": "coral-atom-188404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956933970060:android:eabf9971c93bdf6a",
+        "android_client_info": {
+          "package_name": "com.agentk.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956933970060-qjks982cg8bb9q2hm8c1pp6lmuj2l7k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agentk.tictactoe",
+            "certificate_hash": "75ebfee63bf72619d7bdbcc319bb5d07de70b529"
+          }
+        },
+        {
+          "client_id": "956933970060-b7qv5k2o0mde414o4q0oq6alg7er0p8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_113o8XSZHjSta-L3M9w7aWyN8HAqsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956933970060-b7qv5k2o0mde414o4q0oq6alg7er0p8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

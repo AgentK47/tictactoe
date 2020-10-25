@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="todo">TODO</string>
+    <string name="continuer">Continuer</string>
+    <string name="you_play_1st_or_2nd">Commencer en 1er ou en 2e</string>
+    <string name="exit">Quitter</string>
+    <string name="player">Joueur</string>
+    <string name="draw">Match Nul</string>
+    <string name="_won">Gagné</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="_lost">Perdu</string>
+    <string name="opponent">Adversaire</string>
+    <string name="_0">0</string>
+    <string name="textview">TextView</string>
+    <string name="levelless">Le personnage doit être en couleur pour avoir accès</string>
+    <string name="case_non_vide">CASE NON VIDE</string>
+    <string name="congratulation">FELICITATION NIVEAU</string>
+    <string name="next_level">PROCHAIN NIVEAU</string>
+    <string name="restart">RECOMMENCER</string>
+    <string name="restart_">RECOMMENCER +</string>
+    <string name="lost">Vous avez perdu </string>
+    <string name="white">Blanc</string>
+    <string name="black">Noir</string>
+    <string name="won">a gagné!</string>
+    <string name="draw_">C\'est un match nul!</string>
+    <string name="lvl">Niveau</string>
+    <string name="thinking">Entrain de reflechir&#8230;</string>
+    <string name="single_player">Un seul joueur</string>
+    <string name="two_player">Deux Joueurs</string>
+    <string name="scores">Scores</string>
+    <string name="action_sons">Desactiver le son</string>
+    <string name="action_language">Choisir la langue</string>
+    <string name="select_language">Choisissez votre langue</string>
+	 <string name="end_lvl4">"Vous devez finir le niveau 4 pour avoir accès"</string>
+    <string name="end_lvl9">"Vous devez finir le niveau 9 pour avoir accès"</string>
+	<string name="entrer_players">SVP entrer le nom des joueurs</string>
+    <string name="enter_player_names">Entrer le nom des joueurs</string>
+    <string name="player_1">1er joueur</string>
+    <string name="player_2">2e joueur</string>
+    <string name="ok">OK</string>
+    <string name="select_device">Selectionner un appareil</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Autres appareils</string>
+    <string name="button_scan">Scanner</string>
+    <string name="phone">Telephone</string>
+    <string name="online">En ligne</string>
+	
+	<!-- Online -->
+	<string name="game_invite">vous invite à jouer!</string>
+	<string name="game_rejected">a rejeté votre invitation à jouer!</string>
+	<string name="game_accept">Accepter</string>
+	<string name="game_reject">Rejecter</string>
+	<string name="correct_email">Enter une adresse email correct</string>
+	<string name="correct_name">Enter un nom valable</string>
+	<string name="correct_password">Le mot de passe doit contenir au moins 6 caractères</string>
+	<string name="you_continued">Vous avez continué</string>
+    <string name="opponent_continued">Votre adversaire a continué</string>
+    <string name="opponent_turn">Tour de l\'adversaire</string>
+    <string name="your_turn">Votre tour</string>
+    <string name="game_continued">Votre adversaire a continué le jeu</string>
+    <string name="opponent_exit">Votre adversaire a quitté</string>
+    <string name="game_exit">Votre adversaire a quitté le jeu</string>
+    <string name="help_intro">Les flèches en rouge indique les endroits où vous devez mettre les pions pour gagner. Cependant vous devez atteindre le niveau 5 et 11 pour avoir accès à la grille 4 et 5 respectivement, vous n\'avez pas cette restrictions lorsque vous jouez contre un amis en ligne.</string>
+    <string name="grid_3">Vous devez placer vos 3 pions selon la direction d\'une des fleches pour gagner. La grille est disponible à partir du niveau 1 à 4 avec des difficultés variées</string>
+    <string name="grid_4">Vous devez placer vos 4 pions selon la direction d\'une des fleches pour gagner. La grille est disponible à partir du niveau 5 à 10 avec des difficultés variées</string>
+    <string name="grid_5">Vous devez placer vos 4 pions selon la direction d\'une des fleches pour gagner. La grille est disponible à partir du niveau 11 à 15 avec des difficultés variées</string>
+    <string name="multiplayer">Multijoueur</string>
+    <string name="name">Nom</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de Passe</string>
+    <string name="log_in">Se connecter</string>
+    <string name="invite_to_play">L\'inviter à jouer</string>
+	<string name="congratulation_msg">Félicitations pour votre formidable performance. Vous l\'avez fait jusqu\'à la fin du jeu. Nous voudrions vous remercier.</string>
+	<string name="delete_account">Etes-vous sûr que vous voulez supprimer ? </string>
+	<string name="account_deleted">Votre compte a été supprimé</string>
+	<string name="account_profile">Êtes-vous sûr de vouloir rendre votre profil </string>
+	<string name="_offline">Invisible ?</string>
+	<string name="_online">Visible ?</string>
+	<string name="delete">Supprimer</string>
+	<string name="help">Aide</string>
+	
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices&#8230;</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+	 <string name="send">Send</string>
+	 <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting&#8230;</string>
+
+    <string name="title_not_connected">not connected</string>
+	
+	  <string name="_3_x_3">3 x 3</string>
+    <string name="_5_x_5">5 x 5</string>
+    <string name="_4_x_4">4 x 4</string>
+    <string name="no_online_players">Pas de joueurs en ligne !!!</string>
+    <string name="re_send_code">renvoyer le code</string>
+
+    <string-array name="vignon">
+        <item> Je te défie </item>
+         <item> Vous ne pouvez pas gagner </item>
+         <item> Qui vous a dit de me défier </item>
+         <item> C\'est ce que je te dis\, tu es trop faible </item>
+         <item> Je vais vous arrêter au prochain niveau </item>
+		 <item> Croyez-moi \, je vais gagner! </item>
+		 <item> Je ne vous laisserai pas gagner cette fois </item>
+         <item> Encore un match null et vous avez terminé </item>
+         <item> J\'utilise le sarcasme au lieu de te frapper au visage </item>
+         <item> Vous ne devriez pas m\'avoir essayé </item>
+         <item> Je vais vous arrêter cette fois au prochain niveau </item>
+		 <item> Bonjour\, j\'ai l\'envie de gagner. </item>
+         <item> S\'il vous plaît encore un match null</item>
+         <item> Ne dérangez pas sans raison! </item>
+         <item> Vous allez encore parler \, n\'est-ce pas? </item>
+         <item> Félicitation mais Jean t\'arrêtera </item>
+    </string-array>
+	
+	<string-array name="john">
+        <item> Finissons-en! </item>
+         <item> Je suis plus fort que Vignon </item>
+         <item> Je ne blague pas </item>
+         <item> Ne plaisantez pas avec moi! J\'ai un bâton! </item>
+         <item> Je vais gagner au prochain niveau </item>
+		<item> Faites-moi confiance\, je serai le gagnant! </item>
+		<item> Bienvenue\, mon ami! </item>
+		<item> Encore un match null \, allez! </item>
+		<item> C\'est beaucoup plus drôle maintenant que je l\'ai eu </item>
+		<item> J\'ai des cookies pour vous si vous perdez. </item>
+		<item> Bonjour\, je pensais que vous ne reviendrez plus! </item>
+		<item> Ne mettez jamais un chat sur votre tête. </item>
+		<item> La décision est peut-être et c\'est final! </item>
+		<item> Est-ce que mon sarcasme a blessé vôtre sensations? Prenez le dessus. </item>
+    </string-array>
+	
+	<string-array name="misterCarrot">
+        <item> Bonjour\, je suis né de cette façon. </item>
+         <item> Ne vous inquiétez pas\, je peux vous donner des carottes! </item>
+         <item> Arrêter \, au lieu de faire des match null gagner un peu </item>
+         <item> Mangez plus de carottes et revenez! </item>
+         <item> Félicitations \, j\'imagine que j\'ai besoin de formation </item>
+    </string-array>
+	
+	<string-array name="misterPatato">
+       <item> Salut\, je suis Monsieur Patate! </item>
+         <item> Mieux vaut avoir l\'air stupide et garder la bouche fermée </item>
+         <item> Oh\, désolé\, c\'était juste des difficultés techniques. </item>
+		 <item> Ce n\'est pas le hasard! J\'ai juste beaucoup de pensées </item>
+         <item> Félicitations \, j\'espère que Mr Tomato vous arrêtera! </item>
+    </string-array>
+	
+	<string-array name="misterTomato">
+        <item> Salut \, mon ami! </item>
+         <item> Savez-vous \, je suis le meilleur des Monsieurs </item>
+         <item> J\'ai une boîte magique et c\'est mieux que la tienne. </item>
+         <item> Ne plaisantez pas avec moi! J\'ai un bâton! </item>
+         <item> Félicitations \, je vous souhaite le meilleur pour le reste! </item>
+    </string-array>
+	
+	<string-array name="papi">
+        <item> Je suis le meilleur papi de tous les temps! </item>
+         <item> Je suis le meilleur joueur de tictactoe </item>
+         <item> Retournez! La vitoire est à moi! </item>
+         <item> Non\, bon sang! Je ne peux pas vous montrer le chemin de la rue Sesame! </item>
+         <item> Je vais gagner au prochain niveau </item>
+
+         <item> Vous me demanderez d\'arrêter de gagner! </item>
+         <item> Je vois tous vos mouvements </item>
+         <item> Je ne blague pas </item>
+         <item> Même mes problèmes ont des problèmes </item>
+        
+         <item> Finissons-en! </item>
+         <item> Je pense à vos mouvements </item>
+         <item> J\'entends des voix et elles ne vous aiment pas! </item>
+         <item> Les gens en colère ont besoin de calins ou d\'objets pointus </item>
+         <item> Personne ne peut gagner Tictactomanie \, Goodluck </item>
+    </string-array>
+	
+	<string-array name="tictactomania">
+       <item> Salut\, je ne suis pas bizarre \, je suis doué! </item>
+         <item> Ne défiez jamais Tictactomania </item>
+         <item> Mon ami imaginaire pense que vous avez des problèmes </item>
+         <item> Ne plaisantez pas avec moi! J\'ai un bâton! </item>
+         <item> Ok vous avez gagné \, par hasard </item>
+   
+         <item> Bonjour\, d\'ici vous ne pouvez pas aller plus loin! </item>
+		 <item> Ne vous mettez jamais en feu. </item>
+         <item> C\'est typique d\'un fan de SUDOKU! </item>
+         <item> Les moutons ne sont que des bâtonnets de barbe à papa démentes </item>
+         <item> Je suis si doué au prochain niveau! </item>
+   
+         <item> Bienvenue au dernier niveau! </item>
+         <item> Les bananes peuvent être vertes! </item>
+         <item> Je peux penser! </item>
+         <item> Vous ressemblez à vous-même! </item>
+         <item> Félicitations seulement quelques-uns d\'entre vous me battent\, défiez vos amis </item>
+    </string-array>
+	
+    <string-array name="levels_array">
+        <item>Vignon</item>
+        <item>Vignon Stupéfait</item>
+        <item>Vignon Etonné</item>
+        <item>Jean</item>
+        <item>Jean surpris</item>
+        <item>Jean déprimé</item>
+        <item>Monsieur Carotte</item>
+        <item>Monsieur Patate</item>
+        <item>Monsieur Tomate</item>
+        <item>Papi</item>
+        <item>Papi regarde</item>
+        <item>Papi pense</item>
+        <item>Tictactomania</item>
+        <item>Tictactomania Feu</item>
+        <item>Tictactomania Tonnerre</item>
+    </string-array>
+    <string-array name="wins_array">
+        <item>Gagner Vignon 6 fois sans \'Match Nul\' pour passer !!!</item>
+        <item>Gagner Vignon Stupéfait 5 fois avec au plus \'2 Matchs Nuls\' pour passer !!!</item>
+        <item>Gagner Vignon Etonné 5 fois avec au plus \'1 Match Nul\' pour passer !!!</item>
+        <item>Vous pouvez pas gagner Jean mais faites 10 Matchs Nuls pour passer</item>
+		 <item>Gagner Jean surpris fois avec au plus \'2 Matchs Nuls\' pour passer!!!</item>
+        <item>Gagner Jean déprimé 5 fois sans \'Match Nul\' pour passer  !!!</item>
+        <item>Gagner Monsieur Carotte 7 fois avec au plus \'5 Matchs Nuls\' pour passer !!!</item>
+        <item>Gagner Monsieur Patate 8 fois avec au plus \'5 Matchs Nuls\' pour passer !!!</item>
+        <item>Gagner Monsieur Tomate 10 fois avec au plus \'5 Matchs Nuls\' pour passer  !!!</item>
+        <item>Vous ne pouvez pas gagner Papi mais faites 10 Matchs Nuls pour passer</item>
+		 <item>Gagner Papi regarde 5 fois avec au plus \'1 Match Nul\' pour passer !!!</item>
+        <item>Gagner Papi pense 5 fois sans \'Match Nul\' pour passer  !!!</item>
+        <item>Gagner Tictactomania 7 fois avec au plus \'5 Matchs Nuls\' pour passer  !!!</item>
+        <item>Gagner Tictactomania Feu 8 fois avec au plus \'5 Matchs Nuls\' pour passer  !!!</item>
+        <item>Gagner Tictactomania Tonnerre 5 fois avec au plus \'2 Matchs Nuls\' pour terminer le jeu</item>
+    </string-array>
+
+</resources>

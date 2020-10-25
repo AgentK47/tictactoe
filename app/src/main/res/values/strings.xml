@@ -1,0 +1,234 @@
+<resources>
+    <string name="app_name">TicTacToe Metal</string>
+    <string name="todo">TODO</string>
+    <string name="continuer">Continue</string>
+    <string name="you_play_1st_or_2nd">You play 1st or 2nd</string>
+    <string name="exit">Exit</string>
+    <string name="player">Player</string>
+    <string name="draw">Draw</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="_won">Won</string>
+    <string name="_lost">Lost</string>
+    <string name="opponent">Opponent</string>
+    <string name="_0">0</string>
+    <string name="textview">TextView</string>
+    <string name="levelless">THE CHARACTER MUST BE IN COLOUR TO HAVE ACCESS</string>
+    <string name="case_non_vide">NOT EMPTY</string>
+    <string name="congratulation">CONGRATULATION LEVEL </string>
+    <string name="next_level">NEXT LEVEL</string>
+    <string name="restart">RESTART</string>
+    <string name="restart_">RESTART+</string>
+    <string name="lost">YOU LOST </string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="won">has won!</string>
+    <string name="draw_">It\'s a draw!</string>
+    <string name="lvl">Level</string>
+    <string name="thinking">Thinking...</string>
+    <string name="single_player">Single Player</string>
+    <string name="two_player">Two Players</string>
+    <string name="scores">Scores</string>
+    <string name="action_sons">Disable sound</string>
+    <string name="action_language">Choose language</string>
+    <string name="select_language">Select your language</string>
+    <string name="end_lvl4">"END LEVEL 4 TO HAVE ACCESS"</string>
+    <string name="end_lvl9">"END LEVEL 9 TO HAVE ACCESS"</string>
+    <string name="entrer_players">Enter Player Names Please</string>
+    <string name="enter_player_names">Enter player names</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="ok">OK</string>
+	<string name="help">Help</string>
+
+    <!-- Online -->
+    <string name="you_continued">You continued</string>
+    <string name="opponent_continued">Opponent\'s continued</string>
+    <string name="opponent_turn">Opponent\'s turn</string>
+    <string name="your_turn">Your turn</string>
+    <string name="game_continued">Your opponent continued the game</string>
+    <string name="opponent_exit">Opponent\'s exit</string>
+    <string name="game_exit">Your opponent exit the game</string>
+	<string name="game_invite">invites you to play!</string>
+	<string name="game_rejected">rejected your invite!</string>
+	<string name="game_accept">Accept</string>
+	<string name="game_reject">Reject</string>
+	<string name="correct_email">Enter correct email</string>
+	<string name="correct_name">Enter correct name</string>
+	<string name="correct_password">Password should have at least 6 characters</string>
+	<string name="delete_account">Are you sure you want to delete ? </string>
+	<string name="account_deleted">Your account has been deleted</string>
+	<string name="account_profile">Are you sure you want to turn your profile </string>
+	<string name="_offline">Offline ?</string>
+	<string name="_online">Online ?</string>
+	<string name="delete">Delete</string>
+	
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_not_connected">not connected</string>
+    <string name="phone">Phone</string>
+    <string name="online">Online</string>
+    <string name="help_intro">The red arrows indicate where you need to put the pieces to win. However you must reach level 5 and 11 to have access to grid 4 and 5 respectively, you do not have these restrictions when you play against an online friends.</string>
+    <string name="grid_3">You must place your 3 pieces in the direction of one of the arrows to win. The grid is available from level 1 to 4 with various difficulties.</string>
+    <string name="grid_4">You must place your 4 pieces in the direction of one of the arrows to win. The grid is available from level 5 to 10 with various difficulties</string>
+    <string name="grid_5">You must place your 4 pieces in the direction of one of the arrows to win. The grid is available from level 11 to 15 with varied difficulties</string>
+    <string name="_3_x_3">3 x 3</string>
+    <string name="_5_x_5">5 x 5</string>
+    <string name="_4_x_4">4 x 4</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="invite_to_play">Invite to play</string>
+	<string name="congratulation_msg">Congratulations on your terrific performance. You made it to the end of the game. We would like to thank you.</string>
+    <string name="no_online_players">No online players !!!</string>
+    <string name="re_send_code">Resend code</string>
+
+    <string-array name="vignon">
+        <item>I dare you</item>
+        <item>You cannot win</item>
+        <item>Who told you to dare me</item>
+        <item>That\'s what I am saying you are too weak</item>
+        <item>I will stop you in the next level</item>
+		<item>Believe me\, I\'m going to win !</item>
+		<item>I will not let you win this time</item>
+        <item>One more draw and you are done</item>
+        <item>I use sarcasm instead of punching you in the face</item>
+        <item>You shouldn\'t have tried me</item>
+        <item>I will stop you this time in the next level</item>
+		<item>Hello\, I have the urge to win.</item>
+        <item>Please one more draw</item>
+        <item>Do not disturb for no reason !</item>
+        <item>You\'re going to speak again\, aren\'t you ?</item>
+        <item>Congratulation but John will stop you</item>
+    </string-array>
+	
+	<string-array name="john">
+        <item>Let\'s finish this !</item>
+        <item>I\'m better than Vignon</item>
+        <item>I don\'t Joke</item>
+        <item>Don\'t mess with me! I have a stick!</item>
+        <item>I\'m going to win in the next level</item>
+		<item>Trust me\, I will be the winner !</item>
+		<item>Welcome Back\, my friend !</item>
+		<item>One more draw\, come on !</item>
+		<item>It\'s much funnier now that I get it</item>
+		<item>I have cookies for you if you loose.</item>
+		<item>Hello\,I thought you are not coming back !</item>
+		<item>Never put a cat on your head.</item>
+		<item>The decision is maybe and that\'s final !</item>
+		<item>Did my sarcasm hurt your feels? Get over it.</item>
+    </string-array>
+	
+	<string-array name="misterCarrot">
+        <item>Hello\, I was born this way.</item>
+        <item>Don\'t worry\,I can give you carrots !</item>
+        <item>Stop\, instead of draw win a little bit</item>
+        <item>Eat more carrots and come back !</item>
+        <item>Congratulations\, I guess I need training</item>
+    </string-array>
+	
+	<string-array name="misterPatato">
+        <item>Hi\, I\'m Mister Patato !</item>
+        <item>Its better to look stupid and keep your mouth closed</item>
+        <item>Oh\, sorry\, it was just technical difficulties.</item>
+		<item>I\'m not random! I just have lots of thoughts</item>
+        <item>Congratulations\, I hope Mr Tomato will stop you !</item>
+    </string-array>
+	
+	<string-array name="misterTomato">
+        <item>Hi\, My friend!</item>
+        <item>Do you know\, I\'m the best of Misters</item>
+        <item>I have a magical box and it is better than yours.</item>
+        <item>Don\'t mess with me! I have a stick!</item>
+        <item>Congratulations\,I wish you the best for the rest !</item>
+    </string-array>
+	
+	<string-array name="papi">
+        <item>I\'m the best papi ever !</item>
+        <item>I\'m the best tictactoe player </item>
+        <item>Back off! The vitory is mine!</item>
+        <item>No\, dammit! I can\'t show you the way to Sesame Street!</item>
+        <item>I\'m going to win in the next level</item>
+		
+        <item>You will ask me to stop winning!</item>
+        <item>I\'m seeing all your moves</item>
+        <item>I don\'t Joke</item>
+        <item>Even my issues have issues</item>
+        	
+        <item>Let\'s finish this !</item>
+        <item>I\'m thinking about your moves</item>
+        <item>I hear voices and they don’t like you!</item>
+        <item>Angry people need hugs or sharp objects</item>
+        <item>Nobody can win Tictactomania\, Goodluck  </item>
+    </string-array>
+	
+	<string-array name="tictactomania">
+        <item>Hi\,  I\'m not weird\, I\'m gifted!</item>
+        <item>Never challenge Tictactomania</item>
+        <item>My imaginary friend thinks you have issues</item>
+        <item>Don\'t mess with me! I have a stick!</item>
+        <item>Ok you have won\, by chance</item>
+   
+        <item>Hi\, from here you cannot go further!</item>
+		<item>Never set yourself on fire.</item>
+        <item>That is so typical of a SUDOKU fan!</item>
+        <item>Sheep are just demented sticks of candy floss</item>
+        <item>I\'m so skilled in the next level !</item>
+   
+        <item>Welcome to the final level !</item>
+        <item>Bananas can be green!</item>
+        <item>I can think!</item>
+        <item>You sound like yourself!</item>
+        <item>Congratulation only a few of you beat\, challenge your friends</item>
+    </string-array>
+	
+    <string-array name="levels_array">
+        <item>Vignon</item>
+        <item>Vignon stupefied</item>
+        <item>Vignon stunned</item>
+        <item>John</item>
+        <item>John surprised</item>
+        <item>John depressed</item>
+        <item>Mister Carrot</item>
+        <item>Mister Patato</item>
+        <item>Mister Tomato</item>
+        <item>Papi</item>
+        <item>Papi Seeing</item>
+        <item>Papi Thinking</item>
+        <item>Tictactomania</item>
+        <item>Tictactomania Fire</item>
+        <item>Tictactomania Thunder Work</item>
+    </string-array>
+    <string-array name="wins_array">
+        <item>Win Vignon 6 times without \'Draw\' to pass</item>
+        <item>Win Vignon stupefied 5 times with at most \'2 Draws\' to pass</item>
+        <item>Win Vignon stunned 5 times with at most \'1 Draw\' to pass</item>
+        <item>You cannot win John but make it draw 10 times to pass</item>
+		<item>Win John surprised 5 times with at most \'2 Draws\' to pass</item>
+        <item>Win John depressed 5 times without \'Draw\' to pass</item>  
+        <item>Win Mister Carrot 7 times with at most \'5 Draws\' to pass</item>
+        <item>Win Mister Patato 8 times with at most \'5 Draws\' to pass</item>
+        <item>Win Mister Tomato 10 times with at most \'5 Draws\' to pass</item>
+        <item>You cannot win Papi but make it draw 10 times to pass</item>        
+        <item>Win Papi Seeing 5 times with at most \'1 Draw\' to pass</item>
+		<item>Win Papi Thinking 5 times without \'Draw\' to pass</item>
+        <item>Win Tictactomania 7 times with at most \'5 Draws\' to pass</item>
+        <item>Win Tictactomania Fire 8 times with at most \'5 Draws\' to pass</item>
+        <item>Win Tictactomania Thunder Work 5 times with at most \'2 Draws\' to end the game</item>
+    </string-array>
+
+</resources>
